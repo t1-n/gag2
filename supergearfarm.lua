@@ -18,7 +18,7 @@ getgenv().CycleDelay = 0.5
 
 local Window = Rayfield:CreateWindow({
    Name = "SuperGearFarmer",
-   LoadingTitle = "SuperGearFarmer",
+   LoadingTitle = "Dhenaa Smells Like Roses",
    LoadingSubtitle = "by mark",
    ConfigurationSaving = { Enabled = false },
    KeySystem = false
