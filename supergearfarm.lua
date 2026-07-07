@@ -48,7 +48,7 @@ end
 
 
 local Toggle = Tab:CreateToggle({
-   Name = "Enable Auto-Buyer Loop",
+   Name = "enable supergear farmer v67",
    CurrentValue = false,
    Flag = "AutoClickerToggle",
    Callback = function(Value)
@@ -90,7 +90,7 @@ local Toggle = Tab:CreateToggle({
 
 
 local Slider = Tab:CreateSlider({
-   Name = "Cycle Cooldown (Seconds)",
+   Name = "cycle cooldown length (seconds)",
    Range = {0.1, 2},
    Increment = 0.05,
    Suffix = "s",
